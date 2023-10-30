@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 'Nyx</h1>
-<h3 align="center">Computer Science Student | Living in Chebba, Tunisia.   🐍 Skilled in Python programming.</h3>
+<h3 align="center">Computer Science Student | Living in Chebba, Tunisia.   🐍 Skilled in JavaScript and Python programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebelforce7&label=Profile%20views&color=0e75b6&style=flat" alt="rebelforce7" /> </p>
 
